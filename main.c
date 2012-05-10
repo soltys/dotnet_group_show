@@ -1,4 +1,4 @@
-//nag³ówki!
+//Headers!
 #include <stdio.h>
 int main()
 {
