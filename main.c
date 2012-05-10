@@ -1,3 +1,4 @@
+//nag³ówki!
 #include <stdio.h>
 int main()
 {
